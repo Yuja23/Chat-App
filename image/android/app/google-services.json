@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635108250474",
+    "project_id": "testchatapp-fac31",
+    "storage_bucket": "testchatapp-fac31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635108250474:android:b26ae5deff8c65d67dcb13",
+        "android_client_info": {
+          "package_name": "com.example.image"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635108250474-m4876nnj5ijdel1shmmcu1hiduv51d86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVfDeBGr_txDSbWW9OXgU6gxD0Wv70008"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635108250474-m4876nnj5ijdel1shmmcu1hiduv51d86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
